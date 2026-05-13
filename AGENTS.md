@@ -9,7 +9,7 @@ A collection of reusable OpenCode commands and skills. Currently contains:
 Clone once, symlink the commands you want:
 
 ```bash
-git clone https://github.com/jeko/agents-core-skills.git /opt/projects/tools/agents-core-skills
+git clone https://github.com/j3k0/agents-core-skills.git /opt/projects/tools/agents-core-skills
 ln -s /opt/projects/tools/agents-core-skills/command/learn.md ~/.config/opencode/command/learn.md
 ```
 
